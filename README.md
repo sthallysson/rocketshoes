@@ -6,6 +6,3 @@ Challenge 02 Ignite ReactJS from Rocketseat.
   - run the fake api with command ```yarn server ```
 - run ```yarn start``` to frontend
  
-### Deployed site link
-
-https://rocketshoes-blond.vercel.app/
